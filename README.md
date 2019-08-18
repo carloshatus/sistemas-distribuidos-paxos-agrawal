@@ -1,0 +1,1 @@
+# Implementação baseada nos algoritmos Paxos e Agrawal
